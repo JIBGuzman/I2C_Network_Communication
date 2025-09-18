@@ -1,4 +1,4 @@
-I2C Communication System
+# I2C Communication System
 
 ## Overview
 This project implements an I2C bus communication system using the TM4C123 LaunchPad microcontroller to interface with several external I2C components: a TCS34725 RGB Color Sensor, MPU6050 gyroscope, a servo motor, and a 16x2 LCD display. The system demonstrates real-time sensor data acquisition, servo control, and live feedback display using I2C communication.
