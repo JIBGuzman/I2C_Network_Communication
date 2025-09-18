@@ -51,3 +51,11 @@ This project implements an I2C bus communication system using the TM4C123 Launch
 - Afzal Hakim
 - Robby Rimal
 
+## Additional Resources
+- Video Demo Part 1: [Delay and UART Tests](https://www.youtube.com/watch?v=vM_ZWoqO4cc)
+- Video Demo Part 2: [I2C Test](https://www.youtube.com/watch?v=L3Zt2sT_ms0&list=LL)
+- Video Demo Part 3: [Color Sensor Test](https://www.youtube.com/watch?v=uP8757Ir24M)
+- Video Demo Part 4: [Gyroscope Test](https://www.youtube.com/watch?v=wUv1AqBdJyE)
+- Video Demo Part 5: [Servo Test](https://www.youtube.com/watch?v=wHUlNNXiDM0)
+- Video Demo Part 6: [LCD Test](https://youtu.be/GPVm0zbWn10?si=2Yl-lmT-MDjyQyzq)
+- Video Demo Part 7: [Full System Test](https://youtu.be/tVYpw0OcfmA)
